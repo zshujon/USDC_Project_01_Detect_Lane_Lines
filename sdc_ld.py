@@ -8,7 +8,6 @@ Created on Sun Jul 23 12:09:42 2017
 import matplotlib.pyplot as plt
 import numpy as np
 import cv2
-from time import sleep
 import imageio
 #%%
 
